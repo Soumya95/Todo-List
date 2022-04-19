@@ -1,6 +1,12 @@
+### Live Project :
+
+The project is deployed and live on : https://gentle-vacherin-d57c11.netlify.app/
+
 ### To start the project : 
   
-  use `yarn start` and use `test@test.com` & `123456` as general credentials to login
+  use `yarn` & `yarn start`
+ 
+  General Credentials :  `test@test.com` & `123456` to login
   
 ### Frameworks or Libraries used : 
 
